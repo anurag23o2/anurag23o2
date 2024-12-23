@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **GO Language**
 
-- 👨‍💻 All of my projects are available at [https://anuragmishracv-232004.netlify.app/](https://anuragmishracv-232004.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://anuragmishracv-232004.netlify.app/)
 
 - 📫 How to reach me **anuargmishraspecial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XG2pCnCCp4M14WzZndIHoJtzGjEm-RYe/view?usp=sharing](https://drive.google.com/file/d/1XG2pCnCCp4M14WzZndIHoJtzGjEm-RYe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XG2pCnCCp4M14WzZndIHoJtzGjEm-RYe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
